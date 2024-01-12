@@ -1,0 +1,15 @@
+.Hero-section{
+    background-image: url("./StrangerX.in.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.home-block{
+    margin: 154px 1039px 0px 0px;
+}

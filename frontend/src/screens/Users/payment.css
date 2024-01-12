@@ -1,0 +1,61 @@
+.payment-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+  }
+  
+  .payment-container h2 {
+    margin-top: 0;
+  }
+  
+  .payment-container form {
+    margin-top: 20px;
+  }
+  
+  .payment-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .payment-container input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  .payment-container button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .payment-container button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .payment-container p {
+    margin-top: 20px;
+    font-size: 16px;
+  }
+  
+  .payment-container .booking-info {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+  }
+  .booking-status{
+    color: #3e8e41;
+    font-weight: 700;
+  }
